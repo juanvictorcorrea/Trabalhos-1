@@ -21,7 +21,7 @@ Luan Souza, Rafael Lopes, Lais, Guilerme Rocha, Alexandre,
 
 * Oracle
 
-William, Gustavo Alexsander Ruske, Marcos, Lucas, Gustavo cesar, Douglas, Caio, José Sar
+William, Gustavo Alexsander Ruske, Marcos, Lucas `@lucaswolfgramm <https://github.com/lucaswolfgramm>`_, Gustavo cesar, Douglas, Caio, José Sar
 
 * SQL Server
 
