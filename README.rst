@@ -17,7 +17,7 @@ Daniel, Daniel Custodio, Leandro, Ricardo, Juan, Marco, Marcelo, Jeferson, Gusta
 
 * PostgreSQL
 
-Alexandre '@alexandreWP <https://github.com/AlexandreWP>', Luan Souza, Rafael Lopes, Lais, Guilherminho Rocha  
+Alexandre '@alexandreWP <https://github.com/AlexandreWP>'_, Luan Souza, Rafael Lopes, Lais, Guilherminho Rocha  
 
 * Oracle
 
@@ -25,7 +25,7 @@ William, Gustavo Alexsander Ruske, Marcos, Lucas, Gustavo cesar, Douglas, Caio, 
 
 * SQL Server
 
-Rodrigo Dornel `@rdornel <https://github.com/rdornel>`
+Rodrigo Dornel `@rdornel <https://github.com/rdornel>`_
 
 carlito, gabriel, Guilherme rodrigues blank,
 jefferson de souza gaieuski	
