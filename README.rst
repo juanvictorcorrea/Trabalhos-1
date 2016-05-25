@@ -17,17 +17,17 @@ Daniel, Daniel Custodio, Leandro, Ricardo, Juan, Marco, Marcelo, Jeferson, Gusta
 
 * PostgreSQL
 
-Luan Souza, Rafael Lopes, Lais, Guilerme Rocha, Alexandre, 
+Alexandre '@alexandreWP <https://github.com/AlexandreWP>', Luan Souza, Rafael Lopes, Lais, Guilherminho Rocha  
 
 * Oracle
 
-William, Gustavo Alexsander Ruske, Marcos, Lucas `@lucaswolfgramm <https://github.com/lucaswolfgramm>`_, Gustavo cesar, Douglas, Caio, José Sar
+William, Gustavo Alexsander Ruske, Marcos, Lucas, Gustavo cesar, Douglas, Caio, José Sar
 
 * SQL Server
 
-Rodrigo Dornel `@rdornel <https://github.com/rdornel>`_
+Rodrigo Dornel `@rdornel <https://github.com/rdornel>`
 
-alexandre, carlito, gabriel, Guilherme rodrigues blank,
+carlito, gabriel, Guilherme rodrigues blank,
 jefferson de souza gaieuski	
 joão marcos schmalz, joão paulo furlanetto de souza	
 joão vitor borba paul, karoline zimermann de souza	
