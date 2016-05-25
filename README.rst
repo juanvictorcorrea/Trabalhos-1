@@ -20,7 +20,8 @@ Daniel, Daniel Custodio, Leandro, Ricardo, Juan, Marco, Marcelo, Jeferson, Gusta
 Alexandre `@alexandreWP <https://github.com/AlexandreWP>`_
 ,Luan Souza `@Luansilva2 <https://github.com/Luansilva2>`_
 ,Rafael Lopes `@rafaellopes21 <https://github.com/rafaellopes21>`_
-,Lais, Guilherminho Rocha  
+,Lais, 
+Guilherme Rocha Koehler `@intorp <https://github.com/Intorp>`_  
 
 * Oracle
 
