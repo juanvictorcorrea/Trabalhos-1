@@ -30,7 +30,7 @@ William, Gustavo Alexsander Ruske, Marcos, Lucas, Gustavo cesar, Douglas, Caio, 
 
 Rodrigo Dornel `@rdornel <https://github.com/rdornel>`_
 
-carlito, gabriel, Guilherme rodrigues blank,
+`@arilson <https://github.com/Arilson13>`_ gabriel, Guilherme rodrigues blank,
 jefferson de souza gaieuski	
 joão marcos schmalz, joão paulo furlanetto de souza	
 joão vitor borba paul, karoline zimermann de souza	
