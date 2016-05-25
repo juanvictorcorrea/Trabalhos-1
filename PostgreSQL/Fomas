@@ -1,0 +1,10 @@
+3º Forma Normal:
+
+GRUPO (GrupoCodigo, GrupoNome, GrupoRazaoSocial,GrupoCNPJ)
+CLIENTES (ClienteCodigo, ClienteNome, ClienteRua, ClienteCidade, ClienteNascimento)
+AGENCIAS (AgenciaCodigo, AgenciaNome, AgenciaCidade, AgenciaFundos, GrupoCodigo)
+CONTAS (AgenciaCodigo, ContaNumero, ContaSaldo, ContaAbertura)
+EMPRESTIMOS (AgenciaCodigo, ClienteCodigo, EmprestimoCodigo, EmprestimoTotal)
+DEPOSITANTES (AgenciaCodigo, ContaNumero, ClienteCodigo, DepositoValor, DepositoData)
+DEVEDORES (AgenciaCodigo, ClienteCodigo, EmprestimoCodigo, DevedorSaldo)
+CARTAOCREDITO (AgenciaCodigo, ClienteCodigo, CartaoCodigo, CartaoLimite)
