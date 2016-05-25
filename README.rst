@@ -17,8 +17,7 @@ Daniel, Daniel Custodio, Leandro, Ricardo, Juan, Marco, Marcelo, Jeferson, Gusta
 
 * PostgreSQL
 
-Alexandre `@alexandreWP <https://github.com/AlexandreWP>`_
-Luan Souza, Rafael Lopes, Lais, Guilherminho Rocha  
+Alexandre '@alexandreWP <https://github.com/AlexandreWP>'_, Luan Souza @Luansilva2 <https://github.com/Luansilva2>, Rafael Lopes, Lais, Guilherminho Rocha  
 
 * Oracle
 
