@@ -20,7 +20,8 @@ Daniel, Daniel Custodio, Leandro, Ricardo, Juan, Marco, Marcelo, Jeferson, Gusta
 Alexandre `@alexandreWP <https://github.com/AlexandreWP>`_
 ,Luan Souza `@Luansilva2 <https://github.com/Luansilva2>`_
 ,Rafael Lopes `@rafaellopes21 <https://github.com/rafaellopes21>`_
-,Lais, Guilherminho Rocha  
+,Lais 
+,Guilherme Rocha `@intorp <https://github.com/Intorp>`_  
 
 * Oracle
 
@@ -37,7 +38,7 @@ José Sar
 
 Rodrigo Dornel `@rdornel <https://github.com/rdornel>`_
 
-carlito, gabriel, Guilherme rodrigues blank,
+`@arilson <https://github.com/Arilson13>`_ gabriel, Guilherme rodrigues blank,
 jefferson de souza gaieuski	
 joão marcos schmalz, joão paulo furlanetto de souza	
 joão vitor borba paul, karoline zimermann de souza	
