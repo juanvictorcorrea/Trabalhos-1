@@ -1,0 +1,18 @@
+ESQUEMA BANCO MINHA CAIXA [MYSQL]
+
+tab_agencia(cod_agencia, nm_agencia, cid_agencia, fundos_agencia, cod_grupo_agencia)
+
+tab_grupo_agencia(cod_grupo_agencia, nm_grupo, r_social_grupo, cnpj_grupo)
+
+tab_cartao_credito(cod_agencia, cod_cliente, cod_cartao, limite_cartao)
+
+tab_cliente(cod_cliente, nm_cliente, rua_cliente, cid_cliente, dtnasc_cliente)
+
+tab_contas(cod_agencia, cod_conta, cod_cliente, saldo_conta, dtabert_conta)
+
+tab_depositante(cod_agencia, cod_conta, cod_cliente, vl_deposito, dt_deposito)
+
+tab_devedores(cod_agencia, cod_cliente, cod_emprestimo, saldo_devedor)
+
+tab_emprestimo(cod_agencia, cod_cliente, cod_emprestimo, tot_emprestimo)
+
