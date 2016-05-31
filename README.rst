@@ -27,7 +27,7 @@ Alexandre `@alexandreWP <https://github.com/AlexandreWP>`_
 
 William, 
 Gustavo Alexsander Ruske, 
-Marcos, 
+Marcos Peters `@marcospeters <https://github.com/marcospeters>`_, 
 Lucas `@lucaswolfgramm <https://github.com/lucaswolfgramm>`_, 
 Gustavo cesar, 
 Douglas, 
