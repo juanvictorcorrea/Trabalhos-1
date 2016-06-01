@@ -38,7 +38,8 @@ José Sar
 
 Rodrigo Dornel `@rdornel <https://github.com/rdornel>`_
 
-`@arilson <https://github.com/Arilson13>`_ gabriel, Guilherme rodrigues blank,
+`@arilson <https://github.com/Arilson13>`_ gabriel, 
+Guilherme Blank `@guilhermeblank <https://github.com/guilhermeblank>`_,
 jefferson de souza gaieuski	
 joão marcos schmalz, joão paulo furlanetto de souza	
 joão vitor borba paul, karoline zimermann de souza	
