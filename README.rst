@@ -32,7 +32,7 @@ Lucas `@lucaswolfgramm <https://github.com/lucaswolfgramm>`_,
 Gustavo César Muchon `@gustavomuchon <https://github.com/gustavomuchon>`_, 
 Douglas, 
 Caio `@delmonego <https://github.com/delmonego>`_,
-José Sar
+Jose Sardagna `@josecleocir <https://github.com/josecleocir>`_,
 
 * SQL Server
 
