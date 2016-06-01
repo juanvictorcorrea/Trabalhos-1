@@ -31,7 +31,7 @@ Marcos Peters `@marcospeters <https://github.com/marcospeters>`_,
 Lucas `@lucaswolfgramm <https://github.com/lucaswolfgramm>`_, 
 Gustavo César Muchon `@gustavomuchon <https://github.com/gustavomuchon>`_, 
 Douglas, 
-Caio `@delmonego <https://github.com/delmonego>`_,
+Caio `@caio <https://github.com/delmonego>`_,
 José Sar
 
 * SQL Server
