@@ -26,7 +26,7 @@ Alexandre `@alexandreWP <https://github.com/AlexandreWP>`_
 * Oracle
 
 William, 
-Gustavo Alexsander Ruske, 
+Gustavo Alexsander Ruske `@Ruske <https://github.com/GustavoRuske>`_,
 Marcos Peters `@marcospeters <https://github.com/marcospeters>`_, 
 Lucas `@lucaswolfgramm <https://github.com/lucaswolfgramm>`_, 
 Gustavo César Muchon `@gustavomuchon <https://github.com/gustavomuchon>`_, 
