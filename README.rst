@@ -31,13 +31,9 @@ Marcos Peters `@marcospeters <https://github.com/marcospeters>`_,
 Lucas `@lucaswolfgramm <https://github.com/lucaswolfgramm>`_, 
 Gustavo César Muchon `@gustavomuchon <https://github.com/gustavomuchon>`_, 
 Douglas, 
-<<<<<<< HEAD
 Caio `@delmonego <https://github.com/delmonego>`_,
 Jose Sardagna `@josecleocir <https://github.com/josecleocir>`_,
-=======
-Caio `@caio <https://github.com/delmonego>`_,
-José Sar
->>>>>>> abcc238910f22bc264f4392c92c77970dc4ce6e0
+Caio Delmonego `@delmonego <https://github.com/delmonego>`_,
 
 * SQL Server
 
