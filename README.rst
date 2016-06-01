@@ -29,7 +29,7 @@ William,
 Gustavo Alexsander Ruske, 
 Marcos Peters `@marcospeters <https://github.com/marcospeters>`_, 
 Lucas `@lucaswolfgramm <https://github.com/lucaswolfgramm>`_, 
-Gustavo cesar, 
+Gustavo César Muchon `@gustavomuchon <https://github.com/gustavomuchon>`_, 
 Douglas, 
 Caio, 
 José Sar
