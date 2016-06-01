@@ -13,7 +13,7 @@ banco.
 
 * MySQL
 
-Daniel, Daniel Custodio, Leandro, Ricardo, Juan, Marco, Marcelo, Jeferson, Gustavo Raphael, João Reis
+Daniel, Daniel Custodio, Leandro, Ricardo, Juan `@juanvictorcorrea <https://github.com/juanvictorcorrea>`_ , Marco, Marcelo, Jeferson, Gustavo Raphael, João Reis
 
 * PostgreSQL
 
@@ -26,7 +26,7 @@ Alexandre `@alexandreWP <https://github.com/AlexandreWP>`_
 * Oracle
 
 William, 
-Gustavo Alexsander Ruske `@ruske <https://github.com/GustavoRuske>`_,
+Gustavo Alexsander Ruske, 
 Marcos Peters `@marcospeters <https://github.com/marcospeters>`_, 
 Lucas `@lucaswolfgramm <https://github.com/lucaswolfgramm>`_, 
 Gustavo César Muchon `@gustavomuchon <https://github.com/gustavomuchon>`_, 
