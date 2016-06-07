@@ -8,7 +8,7 @@ PRIMARY KEY (pk_agencia)
 
 FIZ O SCRIPT DA PRIMEIRA TABELA DO BD, UTILIZEM OS NOMES DE TABELAS E COLUNAS CONFORME ABAIXO, PARA FICAR DE ACORDO COM O DESENHO.
 
-TAB_GRUPO_AGENCIA
+TAB_GRUPO_AGENCIA // criado por Ricardo
 cod_grupo_agencia
 nm_grupo
 r_social_grupo
@@ -71,7 +71,7 @@ cod_agencia
 
 
 ---------------------------------------------------------------------------
-By Ricardo
+By Ricardo - script de criação da tabela tab_agencia
 
 USE minhaCaixa
 
