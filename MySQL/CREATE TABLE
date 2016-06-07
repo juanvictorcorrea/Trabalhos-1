@@ -69,3 +69,24 @@ AGENCIA_DEVEDORES
 cod_devedor
 cod_agencia
 
+
+---------------------------------------------------------------------------
+By Ricardo
+
+USE minhaCaixa
+
+CREATE  TABLE `minhacaixa`.`tab_agencia` (
+  `cod_agencia` INT NOT NULL ,
+  `nm_agencia` VARCHAR(45) NOT NULL ,
+  `cid_agencia` VARCHAR(45) NOT NULL ,
+  `fundos_agencia` DOUBLE NOT NULL ,
+  `cod_grupo_agencia` INT NOT NULL ,
+  PRIMARY KEY (`cod_agencia`) ,/*não consegui colocar constraint na primary key pra assegurar o nome bonitinho para garantir o selo RDornel de qualidade*/
+  INDEX `FK_cod_grupo_agencia_idx` (`cod_grupo_agencia` ASC) ,
+  CONSTRAINT `FK_cod_grupo_agencia`
+    FOREIGN KEY (`cod_grupo_agencia` )
+    REFERENCES `minhacaixa`.`grupo_agencia` (`cod_grupo_agencia` )
+    ON DELETE NO ACTION
+    ON UPDATE NO ACTION);
+
+---------------------------------------------------
