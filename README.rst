@@ -1,4 +1,4 @@
-.. figure:: logounivillesis.jpg
+﻿.. figure:: logounivillesis.jpg
   :alt: Univille ENG
 
 # BDASISUniville
@@ -22,7 +22,7 @@ Ricardo `@ricardoadilson <https://github.com/ricardoadilson>`_
 Alexandre `@alexandreWP <https://github.com/AlexandreWP>`_
 ,Luan Souza `@Luansilva2 <https://github.com/Luansilva2>`_
 ,Rafael Lopes `@rafaellopes21 <https://github.com/rafaellopes21>`_
-,Lais 
+,Lais `@laislima <https://github.com/laisticiane>`_
 ,Guilherme Rocha `@intorp <https://github.com/Intorp>`_  
 
 * Oracle
