@@ -13,7 +13,9 @@ banco.
 
 * MySQL
 
-Daniel, Daniel Custodio, Leandro, Ricardo, Juan, Marco, Marcelo, Jeferson, Gustavo Raphael, João Reis
+Daniel, Daniel Custodio, Leandro,
+Ricardo `@ricardoadilson <https://github.com/ricardoadilson>`_
+, Juan, Marco, Marcelo, Jeferson, Gustavo Raphael, João Reis
 
 * PostgreSQL
 
