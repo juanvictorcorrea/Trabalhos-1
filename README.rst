@@ -1,4 +1,4 @@
-.. figure:: logounivillesis.jpg
+﻿.. figure:: logounivillesis.jpg
   :alt: Univille ENG
 
 # BDASISUniville
@@ -13,7 +13,11 @@ banco.
 
 * MySQL
 
-Daniel, Daniel Custodio, Leandro, Ricardo, Juan, Marco, Marcelo, Jeferson, Gustavo Raphael, João Reis
+Daniel,
+Daniel Custodio `@danielcustodio1 <https://github.com/danielcustodio1>`_
+Leandro,
+Ricardo `@ricardoadilson <https://github.com/ricardoadilson>`_
+, Juan, Marco, Marcelo, Jeferson, Gustavo Raphael, João Reis
 
 * PostgreSQL
 
