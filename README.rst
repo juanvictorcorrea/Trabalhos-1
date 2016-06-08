@@ -14,7 +14,7 @@ banco.
 * MySQL
 
 Daniel,
-Daniel Custodio '@danielcustodio1 <https://github.com/danielcustodio1>'_
+Daniel Custodio `@danielcustodio1 <https://github.com/danielcustodio1>`_
 Leandro,
 Ricardo `@ricardoadilson <https://github.com/ricardoadilson>`_
 , Juan, Marco, Marcelo, Jeferson, Gustavo Raphael, João Reis
